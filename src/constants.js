@@ -221,9 +221,9 @@ export const projects = [
     id: 1,
     title: "Meta Verse",
     description:
-      "A full-stack quiz-based platform designed for GATE/UGC NET students to practice previous year questions and create customized tests. The platform offers comprehensive profile stats and detailed results, helping students track and improve their preparation journey effectively.",
+      "A metaverse project is a virtual world where users can interact through digital avatars, explore immersive environments, and connect socially and economically. It combines technologies like VR, AR, blockchain, and AI to create a persistent online universe",
     image: metaverse,
-    tags: ["React JS", "Node.js", "MongoDB", "Express", "HTML", "CSS", "JavaScript"],
+    tags: ["React JS", "Node.js"],
     github: "https://github.com/amitudiwal/MetaVerse",
     webapp: "https://meta-verse-neon.vercel.app/",
   },
